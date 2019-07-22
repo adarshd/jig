@@ -1,0 +1,8 @@
+class1
+-------------------
+data science:
+-> how value of share is decided ?
+clean doesnot work of three special character.
+
+
+functions:
